@@ -9,7 +9,7 @@ Vendredi 8 novembre 2019, Anas, 22 ans, s'immole devant le CROUS de Lyon pour d�
 
 > « J'accuse Macron, Hollande, Sarkozy, et l'UE de m'avoir tué. »
 
-Le mardi suivant une conférence de François Hollande est prévue à l'Université de Lille. Une centaine d'étudiant·es et de personnels solidaires se mobilisent et la venue de celui qu'Anas nommait comme responsable de son geste est annulée. Cette action s'inscrit également dans un contexte local très difficile, où - par exemple - des étudiant·es doivent vivre dans des résidences CROUS insalubres et envahies par les cafards [1].
+Le mardi suivant une conférence de François Hollande est prévue à l'Université de Lille. Une centaine d'étudiant·es et de personnels solidaires se mobilise et la venue de celui qu'Anas nommait comme responsable de son geste est annulée. Cette action s'inscrit également dans un contexte local très difficile, où - par exemple - des étudiant·es doivent vivre dans des résidences CROUS insalubres et envahies par les cafards [1].
 
 Nous apprenons aujourd'hui qu'une dizaine d'étudiant·es ainsi que des collègues enseignant·es ayant participé à cette action et mobilisés dans la lutte en cours contre la réforme des retraites sont convoqués par la police.
 Ces convocations font suite à des plaintes déposées par l'Université, par un agent de l'Université, et par la préfecture.
@@ -19,18 +19,23 @@ Il s'agit pour la police et le gouvernement (l'un des plaignant étant la préfe
 
 Il est inadmissible que - plutôt que de répondre à leurs revendications légitimes - la présidence ait décidé de déposer plainte, au nom de l'Université, contre des étudiant·es et collègues ayant participé à une action collective dans le cadre d'une lutte sociale. Il est inadmissible que - via cette plainte - l'équipe présidentielle soutienne l'intimidation et la répression du mouvement social contre la réforme des retraites et la LPPR, alors même que certain·es membres de l'équipe prétendent être engagés contre ces lois et participent aux manifestations.
 
-Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es et chercheur·ses en informatique, personnels BIATSS, étudiant·es), membres du collectif [onestla.tech](https://onestla.tech), demandons le retrait immédiat de la plainte déposée par la présidence et l'abandon de toutes éventuelles procédures disciplinaires internes (par ordre alphabétique):
+Nous, travailleur·ses du numérique de l'Université de Lille (enseignant·es et chercheur·ses en informatique, personnels BIATSS, étudiant·es), membres du collectif [onestla.tech](https://onestla.tech), demandons le retrait immédiat de la plainte déposée par la présidence et l'abandon de toutes éventuelles procédures disciplinaires internes. 
+
+Signataires (par ordre alphabétique) :
 
 * BEAUFILS Bruno, enseignant-chercheur en informatique, Université de Lille, IUT "A"
-* DUNGLAS Kévin, enseignant vacataire en informatique, Université de Lille, FIL
+* DUNGLAS Kévin, enseignant vacataire en informatique, Université de Lille, Département informatique de la Faculté des sciences et technologies
 * HAUSPIE Michaël, enseignant-chercheur en informatique, Université de Lille, IUT "A"
-* HEBERT Grégoire, enseignant vacataire en informatique, Université de Lille, FIL
+* HEBERT Grégoire, enseignant vacataire en informatique, Université de Lille, Département informatique de la Faculté des sciences et technologies
 * LHOUSSAINE Cédric, enseignant-chercheur en informatique, Université de Lille, IUT "A"
 * LOSSON Olivier, enseignant-chercheur en informatique, Département EEA, Laboratoire CRIStAL
+* MARQUET Philippe, enseignant-chercheur en informatique, Univeresité de Lille, Département informatique de la Faculté des sciences et technologies
 * SECQ Yann, enseignant-chercheur en informatique, Université de Lille, IUT "A"
 * SUQUET Charles, professeur émérite de mathématiques, retraité
 
-[1] Pour comprendre ce que signifie être étudiant·e précaire à l'université de Lille, lire ces articles de Mediapart et de la Voix du Nord :
+----------
+
+[1] Pour comprendre ce que signifie être étudiant·e précaire à l'université de Lille, lisez par exemple ces articles de Mediapart et de la Voix du Nord :
 
 > « Il y a des cafards partout, cela m'est déjà arrivé qu'ils tombent sur moi pendant que je dors, j'en retrouve même dans mes provisions »
 
